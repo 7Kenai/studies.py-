@@ -10,4 +10,4 @@ Aqui estão reunidos scripts desenvolvidos durante meus estudos de algoritmos, f
 
 ## Arquivos
 1. *conversor_btc.py* Um utilitário simples para converter valores entre Real (BRL) e Bitcoin, aplicando lógica matemática básica.
-2.
+
